@@ -5024,3 +5024,16 @@
 5/13/2025 | 4:29:08 AM | INFO | Trying to activate mining on-chain for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
 5/13/2025 | 4:30:23 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x53","from":"0x481d348fec9fc4c0eb0211a103a41d176209c4e1","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/13/2025 | 4:30:23 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 8:32:22 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 8:32:23 AM | INFO | Start process for wallet 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/13/2025 | 8:32:24 AM | INFO | Trying To Login for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/13/2025 | 8:32:25 AM | INFO | Login successful... 
+5/13/2025 | 8:32:25 AM | INFO | Trying to check user info... 
+5/13/2025 | 8:32:25 AM | INFO | User ID: 28362153 | Twitter: @virlyairina | Total Points: 1896000 
+5/13/2025 | 8:32:25 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 8:32:27 AM | INFO | Last mining time: 5/12/2025, 1:59:36 AM
+5/13/2025 | 8:32:27 AM | INFO | Trying to start Mining for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/13/2025 | 8:32:30 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/13/2025 | 8:32:30 AM | INFO | Trying to activate mining on-chain for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/13/2025 | 8:32:31 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/13/2025 | 8:32:31 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 

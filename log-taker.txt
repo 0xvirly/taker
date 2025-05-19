@@ -5371,3 +5371,15 @@
 5/19/2025 | 4:31:54 AM | INFO | Trying to activate mining on-chain for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
 5/19/2025 | 4:31:59 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/19/2025 | 4:31:59 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 8:33:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 8:33:20 AM | INFO | Start process for wallet 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/19/2025 | 8:33:20 AM | INFO | Trying To Login for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/19/2025 | 8:33:21 AM | INFO | Login successful... 
+5/19/2025 | 8:33:21 AM | INFO | Trying to check user info... 
+5/19/2025 | 8:33:22 AM | INFO | User ID: 28362153 | Twitter: @virlyairina | Total Points: 2016000 
+5/19/2025 | 8:33:22 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 8:33:24 AM | INFO | Last mining time: 5/18/2025, 2:02:54 AM
+5/19/2025 | 8:33:24 AM | INFO | Trying to start Mining for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/19/2025 | 8:33:27 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/19/2025 | 8:33:27 AM | INFO | Trying to activate mining on-chain for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/19/2025 | 8:33:41 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x54674e76b0a5db7ac7ae364f4d316658a170ba2fc1b862de474f0eae6f27282f 

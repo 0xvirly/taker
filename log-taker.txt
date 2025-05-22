@@ -5529,3 +5529,12 @@
 5/21/2025 | 8:26:01 PM | INFO | Trying to activate mining on-chain for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
 5/21/2025 | 8:26:04 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655b80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a00ad5527cf547af4808a5f7609b1be914c7386d460b9e8ea1835abfa161378dd7a069547f79c71d8e1022ba657e3fec913d9365fdbc306e5acf6621304566df8338","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/21/2025 | 8:26:04 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:29:35 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:29:36 AM | INFO | Start process for wallet 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/22/2025 | 4:29:36 AM | INFO | Trying To Login for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+5/22/2025 | 4:29:37 AM | INFO | Login successful... 
+5/22/2025 | 4:29:37 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:29:38 AM | INFO | User ID: 28362153 | Twitter: @virlyairina | Total Points: 2064000 
+5/22/2025 | 4:29:38 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:29:40 AM | INFO | Last mining time: 5/22/2025, 1:56:48 AM
+5/22/2025 | 4:29:40 AM | WARN | Mining already started, next mining time is: 5/23/2025, 1:56:48 AM

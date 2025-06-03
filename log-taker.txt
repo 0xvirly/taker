@@ -6192,3 +6192,12 @@
 6/2/2025 | 8:26:56 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 6/2/2025 | 8:26:56 PM | INFO | Trying to activate mining on-chain for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
 6/2/2025 | 8:27:07 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb174ece6134d4ed25bb570bcab3eb07f6ee96ae7c2070bac53ae34fe85d3a147 
+6/3/2025 | 1:59:30 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/3/2025 | 1:59:30 AM | INFO | Start process for wallet 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+6/3/2025 | 1:59:31 AM | INFO | Trying To Login for wallet: 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 
+6/3/2025 | 1:59:32 AM | INFO | Login successful... 
+6/3/2025 | 1:59:32 AM | INFO | Trying to check user info... 
+6/3/2025 | 1:59:32 AM | INFO | User ID: 28362153 | Twitter: @virlyairina | Total Points: 2328000 
+6/3/2025 | 1:59:32 AM | INFO | Trying to check user miner status... 
+6/3/2025 | 1:59:33 AM | INFO | Last mining time: 6/2/2025, 8:27:03 PM
+6/3/2025 | 1:59:33 AM | WARN | Mining already started, next mining time is: 6/3/2025, 8:27:03 PM
